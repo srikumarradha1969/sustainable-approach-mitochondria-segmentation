@@ -1,17 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.14.5
-  kernelspec:
-    display_name: bigearth
-    language: python
-    name: bigearth
----
-
 # A Sustainable Approach for Segmentation of Irregular Shaped Cell Structures such as Mitochondria 
 
 
